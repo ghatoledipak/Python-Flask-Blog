@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "gmail_user": "someone@gmail.com",
+    "gmail_pass":"someone-1234",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/dipscode",
+    "prod_uri": "mysql://root:@localhost/dipscode",
+    "gt_url": "https://circleci.com/integrations/github/?utm_source=bnb&utm_medium=SEM&utm_campaign=SEM-bnb-400-Eng-uscan&utm_content=SEM-bnb-400-Eng-uscan-GitHub&msclkid=71e62217023c114ddc467d4ea4ee389f",
+    "tw_url": "https://twitter.com/",
+    "fb_url": "https://www.facebook.com/",
+    "blog_name": "DipsCoder",
+    "about_text": "this is about text ....!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "no_of_posts": 5,
+    "post_subtitle": "By DipsCoder"
+
+
+     },
+  "passwords":
+  {
+
+  }
+}
